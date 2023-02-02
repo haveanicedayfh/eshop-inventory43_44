@@ -1,0 +1,5 @@
+create table product_inventory(
+    product_id int,
+    inventory_cnt  int
+);
+insert into  product_inventory values(1,100);
